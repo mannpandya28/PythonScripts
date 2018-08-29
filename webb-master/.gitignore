@@ -1,0 +1,7 @@
+*.project
+*.pydevproject
+*.pypirc
+dist
+build
+to_do.txt
+architecture.txt
